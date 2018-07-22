@@ -63,4 +63,162 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
 /* Your code starts here! */
+
+/* Below code streach goal 
+un-comment code to view streach goal */
+ html, body {
+	font-family: 'Poor Story', cursive;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Poor Story', cursive;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+
+.container {
+	width:880px;
+	align-content: center;
+	margin:0px auto;
+}
+/* fixed header with different background color */
+header {
+	margin:0 auto;
+	background:#DCDCDC;
+	position:fixed;
+}
+
+a:hover {
+	color:black;
+
+}
+/* above code for streach goal */
+
+.navbar {
+	color:white;
+	height:70px;
+	width:650px;
+	margin-top:30px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.logo {
+	margin-top:5px;
+	padding: 15px;
+	display:inline-block;
+	vertical-align: top;
+}
+
+.top-img {
+	display: inline-block;
+	vertical-align: top;
+	margin-top:100px;
+	padding-left:75px;
+	padding-top:50px;
+	padding-bottom: 50px;
+}
+
+.topNav {
+	color:grey;
+	text-decoration:none;
+	padding:25px;
+}
+
+.top-text {
+	margin-top:10px;
+	margin-bottom:15px;
+	padding-bottom:15px;
+
+
+}
+
+.middleContent {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+ .topTitle  {
+	display:inline-block;
+} 
+h1{
+	 margin-top:150px;
+	font-size: 70px;
+	text-align: center; 
+	padding:0px 55px;
+}
+
+.button {
+	display: inline-block;
+	font-size:14px;
+	text-align: center;
+	border: 2px solid black;
+	padding: 5px 50px;
+	margin-top:5px;
+	margin-left:117px;
+	background-color:white;
+	cursor: pointer;
+
+}
+/* part of strech goals */
+.button:hover {background-color:pink;}
+
+.button:active {
+	background-color:black;
+	color: white;
+	box-shadow:0 6px #FFA500;
+	transform: transformY(4px);
+}
+/* above is part of strech goals */
+.features {
+	display:inline-block;
+	vertical-align: top;
+	width:49%;
+}
+
+.about {
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+}
+
+.sectionText {
+	text-align:left;
+}
+
+.middle-img {
+	display:block;
+}
+
+.bottom-text {
+	margin-top:10px;
+	margin-bottom:15px;
+	padding-bottom:15px;
+}
+.services {
+	display:inline-block;
+	width:33%;
+}
+
+.product {
+	display: inline-block;
+	width:33%;
+}
+
+.vision {
+	display:inline-block;
+	width:33%;
+}
+
+h3 {
+	margin-top:20px;
+	display:inline-block;
+}
+
+.copyright-bottom {
+	text-align: center;
+	margin-bottom:100px;
+}
